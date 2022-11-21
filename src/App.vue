@@ -1,10 +1,16 @@
+<!--
+ * @Author: Chai chai 2787922490@qq.com
+ * @Date: 2022-11-20 16:42:10
+ * @LastEditors: Chai chai 2787922490@qq.com
+ * @LastEditTime: 2022-11-21 16:38:09
+ * @FilePath: \demo1\src\App.vue
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by Chai chai 2787922490@qq.com, All Rights Reserved. 
+-->
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
